@@ -32,5 +32,5 @@ def find_valid_calls(planeteer_calls)
   #planeteer_calls.filter {|word| word == valid_calls}
   
    #planeteer_calls.find {|valid_calls|}
-end 
+
 end 
