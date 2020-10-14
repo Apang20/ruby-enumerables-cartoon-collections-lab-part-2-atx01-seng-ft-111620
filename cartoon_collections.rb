@@ -27,7 +27,7 @@ def find_valid_calls(planeteer_calls)
   valid_calls = ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
   
   #valid_calls.find do |planeteer_calls == valid_calls|
-  planeteer_calls.find {|valid_calls|}
+  #planeteer_calls.find {|valid_calls|}
   #planeteer_calls.find_all {|word| word == valid_calls}
   #planeteer_calls.filter {|word| word == valid_calls}
    #planeteer_calls.find {|valid_calls|}
